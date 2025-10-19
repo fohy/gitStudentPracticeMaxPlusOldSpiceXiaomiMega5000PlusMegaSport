@@ -1,2 +1,2 @@
-# gitStudentPracticeMaxPlusOldSpiceXiaomiMeg5000PlusMegaSport
+# gitStudentPracticeMaxPlusOldSpiceXiaomiMega5000PlusMegaSport
 Учим со студентами git 
